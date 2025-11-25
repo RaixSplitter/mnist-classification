@@ -183,3 +183,4 @@ cython_debug/
 # MNIST data files
 */data/*
 !*/data/.gitkeep
+!*/data/README.md
